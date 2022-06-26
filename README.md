@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning stuff about myself
 - 💞️ I’m looking to collaborate on my special project(s).
-- 📫 How to reach me: idk
-- (This is template profile readme modified)
+- 📫 How to reach me: idk, be creative...
+- (Template profile)
 
 <!---
 000000-hello-000000/000000-hello-000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
