@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord - flow [hashtag] 4594
 - [This is built on the template profile]
 - Do you understand my goals, and their significance?
-- talk to me if you want to know my goals, if anyone ever sees this (I doubt that anybody will notice my profile)
+- Talk to me (ask me my goals) if you want to know my goals; if anyone ever sees this (I doubt that anybody will notice my profile)
 
 <!---
 000000-hello-000000/000000-hello-000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
