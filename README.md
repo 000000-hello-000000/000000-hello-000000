@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning stuff about myself
 - 💞️ I’m looking to collaborate on my special project(s).
-- 📫 How to reach me: idk, be creative...
+- 📫 How to reach me: Discord - flow [hashtag] 4594
 - [This is built on the template profile]
 
 <!---
