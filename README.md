@@ -8,4 +8,4 @@
 - 🌱 I’m currently learning about myself
 - 👯 I’m looking to collaborate on a few projects
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: my projects are currenly privated until I flush things out
